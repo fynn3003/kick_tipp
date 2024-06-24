@@ -1,0 +1,10 @@
+#environments
+venv
+.venv
+env
+.env
+
+#data
+data/
+
+notes.txt
